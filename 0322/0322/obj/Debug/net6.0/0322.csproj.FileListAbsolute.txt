@@ -1,0 +1,12 @@
+C:\Users\Park\source\repos\0322\0322\bin\Debug\net6.0\0322.deps.json
+C:\Users\Park\source\repos\0322\0322\bin\Debug\net6.0\0322.dll
+C:\Users\Park\source\repos\0322\0322\bin\Debug\net6.0\0322.pdb
+C:\Users\Park\source\repos\0322\0322\obj\Debug\net6.0\0322.csproj.AssemblyReference.cache
+C:\Users\Park\source\repos\0322\0322\obj\Debug\net6.0\0322.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Park\source\repos\0322\0322\obj\Debug\net6.0\0322.AssemblyInfoInputs.cache
+C:\Users\Park\source\repos\0322\0322\obj\Debug\net6.0\0322.AssemblyInfo.cs
+C:\Users\Park\source\repos\0322\0322\obj\Debug\net6.0\0322.csproj.CoreCompileInputs.cache
+C:\Users\Park\source\repos\0322\0322\obj\Debug\net6.0\0322.dll
+C:\Users\Park\source\repos\0322\0322\obj\Debug\net6.0\refint\0322.dll
+C:\Users\Park\source\repos\0322\0322\obj\Debug\net6.0\0322.pdb
+C:\Users\Park\source\repos\0322\0322\obj\Debug\net6.0\ref\0322.dll
