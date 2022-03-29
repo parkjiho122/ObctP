@@ -1,0 +1,15 @@
+C:\Users\Park\source\repos\0329\0329\obj\Debug\net6.0\0329.csproj.AssemblyReference.cache
+C:\Users\Park\source\repos\0329\0329\obj\Debug\net6.0\0329.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Park\source\repos\0329\0329\obj\Debug\net6.0\0329.AssemblyInfoInputs.cache
+C:\Users\Park\source\repos\0329\0329\obj\Debug\net6.0\0329.AssemblyInfo.cs
+C:\Users\Park\source\repos\0329\0329\obj\Debug\net6.0\0329.csproj.CoreCompileInputs.cache
+C:\Users\Park\source\repos\0329\0329\bin\Debug\net6.0\0329.exe
+C:\Users\Park\source\repos\0329\0329\bin\Debug\net6.0\0329.deps.json
+C:\Users\Park\source\repos\0329\0329\bin\Debug\net6.0\0329.runtimeconfig.json
+C:\Users\Park\source\repos\0329\0329\bin\Debug\net6.0\0329.dll
+C:\Users\Park\source\repos\0329\0329\bin\Debug\net6.0\0329.pdb
+C:\Users\Park\source\repos\0329\0329\obj\Debug\net6.0\0329.dll
+C:\Users\Park\source\repos\0329\0329\obj\Debug\net6.0\refint\0329.dll
+C:\Users\Park\source\repos\0329\0329\obj\Debug\net6.0\0329.pdb
+C:\Users\Park\source\repos\0329\0329\obj\Debug\net6.0\0329.genruntimeconfig.cache
+C:\Users\Park\source\repos\0329\0329\obj\Debug\net6.0\ref\0329.dll
