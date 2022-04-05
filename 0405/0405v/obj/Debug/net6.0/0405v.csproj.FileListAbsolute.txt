@@ -1,0 +1,15 @@
+C:\Users\Park\source\repos\0405v\0405v\bin\Debug\net6.0\0405v.exe
+C:\Users\Park\source\repos\0405v\0405v\bin\Debug\net6.0\0405v.deps.json
+C:\Users\Park\source\repos\0405v\0405v\bin\Debug\net6.0\0405v.runtimeconfig.json
+C:\Users\Park\source\repos\0405v\0405v\bin\Debug\net6.0\0405v.dll
+C:\Users\Park\source\repos\0405v\0405v\bin\Debug\net6.0\0405v.pdb
+C:\Users\Park\source\repos\0405v\0405v\obj\Debug\net6.0\0405v.csproj.AssemblyReference.cache
+C:\Users\Park\source\repos\0405v\0405v\obj\Debug\net6.0\0405v.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Park\source\repos\0405v\0405v\obj\Debug\net6.0\0405v.AssemblyInfoInputs.cache
+C:\Users\Park\source\repos\0405v\0405v\obj\Debug\net6.0\0405v.AssemblyInfo.cs
+C:\Users\Park\source\repos\0405v\0405v\obj\Debug\net6.0\0405v.csproj.CoreCompileInputs.cache
+C:\Users\Park\source\repos\0405v\0405v\obj\Debug\net6.0\0405v.dll
+C:\Users\Park\source\repos\0405v\0405v\obj\Debug\net6.0\refint\0405v.dll
+C:\Users\Park\source\repos\0405v\0405v\obj\Debug\net6.0\0405v.pdb
+C:\Users\Park\source\repos\0405v\0405v\obj\Debug\net6.0\0405v.genruntimeconfig.cache
+C:\Users\Park\source\repos\0405v\0405v\obj\Debug\net6.0\ref\0405v.dll
