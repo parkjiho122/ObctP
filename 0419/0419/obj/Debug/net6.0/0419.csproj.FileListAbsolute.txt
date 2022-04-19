@@ -1,0 +1,15 @@
+C:\Users\Park\source\repos\0419\0419\bin\Debug\net6.0\0419.exe
+C:\Users\Park\source\repos\0419\0419\bin\Debug\net6.0\0419.deps.json
+C:\Users\Park\source\repos\0419\0419\bin\Debug\net6.0\0419.runtimeconfig.json
+C:\Users\Park\source\repos\0419\0419\bin\Debug\net6.0\0419.dll
+C:\Users\Park\source\repos\0419\0419\bin\Debug\net6.0\0419.pdb
+C:\Users\Park\source\repos\0419\0419\obj\Debug\net6.0\0419.csproj.AssemblyReference.cache
+C:\Users\Park\source\repos\0419\0419\obj\Debug\net6.0\0419.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Park\source\repos\0419\0419\obj\Debug\net6.0\0419.AssemblyInfoInputs.cache
+C:\Users\Park\source\repos\0419\0419\obj\Debug\net6.0\0419.AssemblyInfo.cs
+C:\Users\Park\source\repos\0419\0419\obj\Debug\net6.0\0419.csproj.CoreCompileInputs.cache
+C:\Users\Park\source\repos\0419\0419\obj\Debug\net6.0\0419.dll
+C:\Users\Park\source\repos\0419\0419\obj\Debug\net6.0\refint\0419.dll
+C:\Users\Park\source\repos\0419\0419\obj\Debug\net6.0\0419.pdb
+C:\Users\Park\source\repos\0419\0419\obj\Debug\net6.0\0419.genruntimeconfig.cache
+C:\Users\Park\source\repos\0419\0419\obj\Debug\net6.0\ref\0419.dll
